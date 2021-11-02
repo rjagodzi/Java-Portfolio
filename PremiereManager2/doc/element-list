@@ -1,0 +1,5 @@
+com.premiereManager.springboot.web
+com.premiereManager.springboot.web.controller
+com.premiereManager.springboot.web.model
+com.premiereManager.springboot.web.security
+com.premiereManager.springboot.web.service
