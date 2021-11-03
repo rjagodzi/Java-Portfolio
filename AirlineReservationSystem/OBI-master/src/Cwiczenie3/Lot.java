@@ -1,7 +1,6 @@
 package Cwiczenie3;
 
 import java.time.*;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 public class Lot {
@@ -50,5 +49,13 @@ public class Lot {
     void dodajPasazera(Pasazer pasazer) {
         pasazerowie.add(pasazer);
     }
+
+	public Samolot getSamolot() {
+		return samolot;
+	}
+
+	public void setSamolot(Samolot samolot) {
+		this.samolot = samolot;
+	}
 
 }

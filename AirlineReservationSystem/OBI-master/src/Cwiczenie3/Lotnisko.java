@@ -1,7 +1,5 @@
 package Cwiczenie3;
 
-import java.util.EnumMap;
-
 public class Lotnisko {
 
     private final String oznaczenie;

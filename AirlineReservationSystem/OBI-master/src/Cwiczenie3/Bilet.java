@@ -1,7 +1,5 @@
 package Cwiczenie3;
 
-import java.time.*;
-
 public class Bilet {
 
     private Pasazer pasazer;
@@ -34,7 +32,7 @@ public class Bilet {
 
     @Override
     public String toString() {
-        return "kupi≈Ç bilet w cenie " + cena + " z≈Ç" +
+        return "kupi≥Ç bilet w cenie " + cena + " z≥Ç" +
                 " na lot " + lot;
     }
 }
