@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="515ffc35-20cf-4008-aff0-73fe5b95fec0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Obi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Obi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Bilet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Bilet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Lot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Lot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Lotnisko.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Lotnisko.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Pasazer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Pasazer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Rezerwacja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Obi/Cwiczenie3/Trasa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cwiczenie3/Lot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cwiczenie3/Lot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cwiczenie3/Lotnisko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cwiczenie3/Lotnisko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cwiczenie3/Pasazer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cwiczenie3/Pasazer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cwiczenie3/SystemowaKlasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cwiczenie3/SystemowaKlasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Cwiczenie3/SystemowaKlasaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Cwiczenie3/SystemowaKlasaTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Sew0EEIbqMqc6enmZRSSiIs4jL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Cwiczenie3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Cwiczenie3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SystemowaKlasaTest">
+    <configuration name="SystemowaKlasaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Obi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cwiczenie3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cwiczenie3" />
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie3.SystemowaKlasaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemowaKlasaTest.dodawaniePasazera" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Obi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cwiczenie3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cwiczenie3" />
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie3.SystemowaKlasaTest" />
+      <option name="METHOD_NAME" value="dodawaniePasazera" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemowaKlasaTest.dodawaniePasazeraDoPelnegoSamolotu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Obi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cwiczenie3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cwiczenie3" />
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie3.SystemowaKlasaTest" />
+      <option name="METHOD_NAME" value="dodawaniePasazeraDoPelnegoSamolotu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemowaKlasaTest.przesunieciePasazeraZKolejkiJesliZwolniSieMiejsce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Obi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cwiczenie3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cwiczenie3" />
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie3.SystemowaKlasaTest" />
+      <option name="METHOD_NAME" value="przesunieciePasazeraZKolejkiJesliZwolniSieMiejsce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemowaKlasaTest.znajdzNajblizszyLotDoWybranegoLotniskaOdOkreslonejDaty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Obi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cwiczenie3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cwiczenie3" />
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie3.SystemowaKlasaTest" />
+      <option name="METHOD_NAME" value="znajdzNajblizszyLotDoWybranegoLotniskaOdOkreslonejDaty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SystemowaKlasaTest" />
+        <item itemvalue="JUnit.SystemowaKlasaTest.przesunieciePasazeraZKolejkiJesliZwolniSieMiejsce" />
+        <item itemvalue="JUnit.SystemowaKlasaTest.dodawaniePasazeraDoPelnegoSamolotu" />
+        <item itemvalue="JUnit.SystemowaKlasaTest.dodawaniePasazera" />
+        <item itemvalue="JUnit.SystemowaKlasaTest.znajdzNajblizszyLotDoWybranegoLotniskaOdOkreslonejDaty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="515ffc35-20cf-4008-aff0-73fe5b95fec0" name="Default Changelist" comment="" />
+      <created>1571937143883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571937143883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/Cwiczenie3/SystemowaKlasaTest.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Cwiczenie3/SystemowaKlasa.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
